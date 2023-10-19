@@ -1,0 +1,64 @@
+body{
+    background-image: url("../Rasmlar/bacroun1.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.sad{
+    margin-left: 20px;
+}
+.das{
+    margin-left: 150px;
+}
+.fab{
+    margin-left: 160px;
+    margin-top: -50px;
+}
+.fab2{
+    margin-left: 160px;
+    margin-top: -10px;
+}
+.saa{
+    margin-left: 370px;
+    margin-top: -80px;
+}
+.fga{
+    margin-left: 20px;
+    margin-top: -40px;
+}
+.fga1{
+    margin-left: 20px;
+    margin-top: -10px;
+}
+.gaf{
+
+}
+.gaf1{
+    margin-left: 20px;
+}
+.dwa{
+    margin-left: 120px;
+}
+.gar{
+    background-color: #4fae4e;
+}
+.huy{
+    margin-top: 50px;
+}
+.fix{
+    width: 50px;
+    height: 50px;
+    display: inline-block;
+    text-align: center;
+    background-color: white;
+    border-radius: 50%;
+    border: 1px solid #248f91;
+    position: fixed;
+    right: 20px;
+    bottom: 40px;
+    line-height: 45px;
+    background-image: url("../rasmlar/icon1.jpg");
+    background-size: 50%;
+    background-repeat: no-repeat;
+    background-position: center center;
+    /*transform: rotate(180deg);*/
+}

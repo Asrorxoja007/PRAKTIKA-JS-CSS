@@ -1,0 +1,93 @@
+body{
+    background-image: url("../Rasmlar/bacroun1.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.gar{
+    background-color: #4fae4e;
+}
+.fff1{
+    margin-left:-70px;
+}
+.fff{
+    color: white;
+    width: 600px;
+}
+.img-box img{
+    width: 100%;
+    height: 100%;
+    display: block;
+    object-fit: cover;
+}
+.ccc{
+    width: 30px;
+    height: 30px;
+    border: 1px solid white;
+    border-radius: 50%;
+    margin-top: 200px;
+    background-color: whitesmoke;
+}
+.ddd{
+    padding-top: 200px;
+    box-sizing: border-box;
+    color: #9d9d9d;
+}
+.all{
+    padding-top: 30px;
+    border-radius: 50%;
+}
+.fff01{
+    margin-top: -400px;
+    margin-left: 800px;
+}
+.ggg02{
+    color: silver;
+}
+.tar{
+    background-color: white;
+}
+.hap01{
+    margin-left: 300px;
+}
+.hap1{
+    margin-left: 300px;
+}
+.hap2{
+    margin-left: 260px;
+}
+.body1{
+    margin-top: 10px;
+    box-sizing: border-box;
+}
+.fix{
+    width: 50px;
+    height: 50px;
+    display: inline-block;
+    text-align: center;
+    background-color: white;
+    border-radius: 50%;
+    border: 1px solid #248f91;
+    position: fixed;
+    right: 20px;
+    bottom: 40px;
+    line-height: 45px;
+    background-image: url("../rasmlar/icon1.jpg");
+    background-size: 50%;
+    background-repeat: no-repeat;
+    background-position: center center;
+    /*transform: rotate(180deg);*/
+}
+.fff02{
+    margin-top: -250px;
+    margin-left: -80px;
+}
+.fff03{
+    margin-left: -80px;
+}
+.fff04{
+    margin-left: -80px;
+}
+.fff05{
+    margin-top: -400px;
+    margin-left: 600px;
+}

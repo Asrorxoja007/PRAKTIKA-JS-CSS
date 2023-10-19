@@ -1,0 +1,139 @@
+body{
+    background-image: url("../Rasmlar/bacroun1.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.bbb1{
+    border: 2px solid wheat;
+    background-color: white;
+    margin-top: 10px;
+}
+.bbb2{
+    border: 2px solid wheat;
+    background-color: white;
+    margin-top: 10px;
+}
+.bbb3{
+    border: 2px solid wheat;
+    background-color: white;
+    margin-top: 15px;
+}
+.bbb4{
+    border: 2px solid wheat;
+    background-color: white;
+    margin-top: 20px;
+}
+.bbb5{
+    border: 2px solid wheat;
+    background-color: white;
+    margin-top: 15px;
+}
+.uya{
+    margin-top: 10px;
+}
+.bda{
+    text-decoration: none;
+    color: white;
+    width: 30px;
+    height: 20px;
+}
+.bha{
+    background-color: #20c997;
+    color: #20c997;
+    margin-left: 40px;
+}
+.bbb01{
+    float: left;
+}
+.ggg1{
+    margin-top: 150px;
+    margin-left: 20px
+}
+.ggg01{
+    color: white;
+    margin-left: 20px;
+}
+.ggg02{
+    color: silver;
+}
+.ggg3{
+    position: absolute;
+}
+.ggg03{
+    color: white;
+    margin-top: 2px;
+}
+.body1{
+    color: white;
+}
+.hhh{
+    background-color: brown;
+    margin-left: 90px;
+    margin-top: -20px;
+}
+.hhh:hover{
+    background-color: silver;
+    margin-left: 90px;
+    margin-top: -20px;
+}
+.ccc{
+    width: 20px;
+    height: 20px;
+    border: 1px solid white;
+    border-radius: 50%;
+    margin-top: 200px;
+    background-color: whitesmoke;
+}
+.ddd{
+    padding-top: 200px;
+    box-sizing: border-box;
+    color: #9d9d9d;
+}
+.all{
+    padding-top: 30px;
+    border-radius: 50%;
+}
+.fff01{
+    margin-top: -400px;
+    margin-left: 800px;
+}
+.ggg02{
+    color: silver;
+}
+.tar{
+    background-color: white;
+}
+.hap01{
+    margin-left: 300px;
+}
+.hap1{
+    margin-left: 300px;
+}
+.hap2{
+    margin-left: 260px;
+}
+.body1{
+    margin-top: 10px;
+    box-sizing: border-box;
+}
+.fix{
+    width: 50px;
+    height: 50px;
+    display: inline-block;
+    text-align: center;
+    background-color: white;
+    border-radius: 50%;
+    border: 1px solid #248f91;
+    position: fixed;
+    right: 20px;
+    bottom: 40px;
+    line-height: 45px;
+    background-image: url("../rasmlar/icon1.jpg");
+    background-size: 50%;
+    background-repeat: no-repeat;
+    background-position: center center;
+    /*transform: rotate(180deg);*/
+}
+.gar{
+    background-color: #4fae4e;
+}
